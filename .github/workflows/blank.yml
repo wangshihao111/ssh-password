@@ -31,4 +31,4 @@ jobs:
         dockerfile: Dockerfile
         registry: registry.cn-shanghai.aliyuncs.com
         repository: sdev/ssh-password
-        tags: 12-slim
+        tags: latest
